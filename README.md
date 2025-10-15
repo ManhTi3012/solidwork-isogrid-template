@@ -1,0 +1,1 @@
+# solidwork-isogrid-template
